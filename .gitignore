@@ -27,3 +27,6 @@ phpunit.phar
 # local phpunit config
 /phpunit.xml
 .htaccess
+/manual
+/example
+/testcase
